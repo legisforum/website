@@ -8,6 +8,10 @@
     height: 70px;
   }
 
+.row{
+    justify-content: center;
+}
+
 body {
     color: #666666;
     background: #ffffff;
