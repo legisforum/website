@@ -25,7 +25,7 @@ h3,
 h4,
 h5, 
 h6 {
-    font-family: 'EB Garamond', serif;
+    font-family: serif;
     font-weight: 600;
     font-style: italic;
     color: #121518;
@@ -1435,7 +1435,7 @@ a:focus {
 }
 
 .portfolio figure a {
-    font-family: 'EB Garamond', serif;
+    font-family: serif;
     color: #aa9166;
     font-size: 25px;
     font-weight: 600;
